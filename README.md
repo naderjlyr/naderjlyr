@@ -26,10 +26,11 @@ I'm a passionate Frontend Engineer with a deep affection for React.js, React Nat
 
 In my leisure time, I enjoy street photography and hiking. I'm a firm believer in continuous learning, especially in the ever-evolving JavaScript landscape, as it's crucial for success in software development.
 
-🌱 I’m currently broadening my knowledge in various JavaScript technologies.
-👯 I’m open to work and employment opportunities, particularly in the Netherlands.
-💬 Feel free to ask me about React.js, Next.js, React Native, PHP, WordPress, Laravel, and API development.
-📫 Reach out to me at: [naderjlyr at gmail dot com]
+- 🌱 I’m currently broadening my knowledge in various JavaScript technologies.
+- 👯 I’m open to work and employment opportunities, particularly in the Netherlands.
+- 💬 Feel free to ask me about React.js, Next.js, React Native, PHP, WordPress, Laravel, and API development.
+- 📫 Reach out to me at: [naderjlyr at gmail dot com]
+
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nader-jalayeri/)
