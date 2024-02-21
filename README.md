@@ -22,12 +22,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-I'm a passionate Frontend Engineer with a deep affection for React.js, React Native, Headless Technologies, API-centric development, WordPress, TailwindCSS, and Frontend System Architecture. Presently, I'm expanding my expertise into backend technologies. I'm actively seeking work and employment opportunities in the Netherlands.
+I'm a passionate Frontend Engineer with a deep affection for React.js, React Native, Headless Technologies, API-centric development, WordPress, TailwindCSS, and Frontend System Architecture. Presently, I'm expanding my expertise into backend technologies. I'm actively seeking work and employment opportunities in Hamburg, Germany.
 
 In my leisure time, I enjoy street photography and hiking. I'm a firm believer in continuous learning, especially in the ever-evolving JavaScript landscape, as it's crucial for success in software development.
 
 - 🌱 I’m currently broadening my knowledge in various JavaScript technologies.
-- 👯 I’m open to work and employment opportunities, particularly in the Netherlands.
+- 👯 I’m open to work and employment opportunities, particularly in Germany.
 - 💬 Feel free to ask me about React.js, Next.js, React Native, PHP, WordPress, Laravel, and API development.
 - 📫 Reach out to me at: [naderjlyr at gmail dot com]
 
